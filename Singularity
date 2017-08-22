@@ -18,7 +18,6 @@ From: debian:9
     cp lib/bamtools/src/api/libbamtools.so* /lib
     cp ../bin/FRC /bin
 
-
     apt-get clean
     rm -rf /var/lib/apt/lists/*
 
